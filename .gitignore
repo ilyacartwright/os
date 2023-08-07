@@ -1,0 +1,9 @@
+*.pyc
+.pyc
+venv/
+node_modules/
+stat/
+dict/
+static/dict/
+app.css
+app.js
